@@ -14,12 +14,12 @@ const projects = [
   {
     title: "Canopy-Chatting Application",
     imagePath: "/images/project2.png",
-    Link: "https://tutor-client-three.vercel.app",
+    Link: "https://canopy-client.vercel.app",
   },
   {
     title: "Stayhub-Hotel Booking Platform",
     imagePath: "/images/project3.png",
-    Link: "https://tutor-client-three.vercel.app",
+    Link: "https://stayhub-cobo.onrender.com",
   },
 ];
 
