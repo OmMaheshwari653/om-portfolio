@@ -91,8 +91,8 @@ const About = () => {
             <p className="md:text-xl text-base">
               Hi! I'm Om Maheshwari, a full Stack Developer specializing in
               building modern applications with Nextjs, React, Node.js, Express,
-              and MongoDB. I craft efficient, scalable solutions that bridge
-              ideas and reality.
+              MongoDB and Postgresql. I craft efficient, scalable solutions that
+              bridge ideas and reality.
             </p>
             <br />
             <p className="md:text-xl text-base">
