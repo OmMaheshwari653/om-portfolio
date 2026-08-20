@@ -8,7 +8,7 @@ gsap.registerPlugin(ScrollTrigger);
 const Achievements = [
   {
     imagePath: "/images/leetcode.png",
-    title: "Solved 300+ DSA Problems",
+    title: "Solved 400+ DSA Problems",
   },
   {
     imagePath: "/images/hactoberfest.png",
